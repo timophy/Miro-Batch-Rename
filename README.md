@@ -16,4 +16,4 @@ Put the batch file in your Miro output directory. Run it!
 
 ### Video
 
-![Video](//timophy.github.io/demos/miro_renamefiles.gif)
+![Video](https://timophy.github.io/demos/miro_renamefiles.gif)
